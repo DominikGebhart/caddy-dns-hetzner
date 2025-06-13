@@ -1,4 +1,4 @@
-module github.com/caddy-dns/hetzner
+module github.com/DominikGebhart/caddy-dns-hetzner
 
 go 1.24
 
